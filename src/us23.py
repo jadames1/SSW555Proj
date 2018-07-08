@@ -1,6 +1,6 @@
 def unique_names_and_birth_dates(individuals, families):
     """ US23 - No more than one individual with the same name and birth
-        date should appear in a GEDCOM file - ANOMALY """
+        date should appear in a GEDCOM file - JA """
     anom_type = "US23"
     return_flag = True
 
